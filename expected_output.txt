@@ -1,0 +1,5 @@
+Time = 0  | Number = 1234 | Reversed = 4321
+Time = 10 | Number = 5678 | Reversed = 8765
+Time = 20 | Number = 1001 | Reversed = 1001
+Time = 30 | Number = 4321 | Reversed = 1234
+Time = 40 | Number = 2468 | Reversed = 8642
